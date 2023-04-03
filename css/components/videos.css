@@ -1,0 +1,9 @@
+.videos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.videos iframe {
+  margin: 10px;
+}

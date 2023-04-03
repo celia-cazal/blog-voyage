@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&family=Playfair+Display:wght@400;700&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/card-purple.css");
+@import url("components/second-card.css");
+@import url("components/second-container.css");
+@import url("components/end-page.css");
+@import url("components/social-links.css");
+@import url("components/banner-end.css");
+@import url("components/sidebar.css");
+@import url("components/videos.css");
+
+
+body{
+	font-family: 'Playfair Display', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
